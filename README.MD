@@ -29,8 +29,8 @@ h - hide/show cutting plane\
 all measurements saved to C:/unityOutputs
 
 ## LINKS
-https://drive.google.com/file/d/1BehnR9JcN9bw7jvJByK-5RS102-kjZT3/view?usp=sharing
-https://drive.google.com/file/d/10XFhkQadYILZ1YXInxGNa5xW4cqcHmXH/view?usp=sharing
+Generated OBJs and PLY files: https://drive.google.com/file/d/1BehnR9JcN9bw7jvJByK-5RS102-kjZT3/view?usp=sharing
+Standalone exes for mac/PC: https://drive.google.com/file/d/10XFhkQadYILZ1YXInxGNa5xW4cqcHmXH/view?usp=sharing
 
 ## Authors
 
