@@ -19,6 +19,7 @@ PLY or OBJ -> Unity to make standalone interactive environments on any platform
 ## LINKS
 Example generated OBJs and PLY files: https://tinyurl.com/y68yw86j \
 Standalone exes for mac/PC: https://tinyurl.com/y26256qy \
+Unity project: https://tinyurl.com/yytq22so
 
 ## Controls for the Unity experiment
 
@@ -32,7 +33,7 @@ LeftMouseClick - take measurement (WORKS BEST IF YOU ARE IN VIEWS 3-5)\
 MiddleMouse (hold) - pan\
 MiddleMouse (hold) + rightMouse(hold) - rotate\
 MiddleMouse (hold) + rightMouse(hold) + control(hold) - zoom\
-h - hide/show cutting plane (only viewable when looking at meshes) 
+h - hide/show cutting plane (only viewable when looking at meshes)
 
 all measurements saved to C:/unityOutputs
 
