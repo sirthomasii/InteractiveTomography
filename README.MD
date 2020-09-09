@@ -4,7 +4,7 @@
 
 Unity AND/OR Python AND/OR Houdini
 
-<![](https://imgur.com/7Jj4Hhh)
+![](https://imgur.com/7Jj4Hhh)
 
 ## Workflow
 
