@@ -32,7 +32,7 @@ LeftMouseClick - take measurement (WORKS BEST IF YOU ARE IN VIEWS 3-5)\
 MiddleMouse (hold) - pan\
 MiddleMouse (hold) + rightMouse(hold) - rotate\
 MiddleMouse (hold) + rightMouse(hold) + control(hold) - zoom\
-h - hide/show cutting plane\
+h - hide/show cutting plane (only viewable when looking at meshes) 
 
 all measurements saved to C:/unityOutputs
 
