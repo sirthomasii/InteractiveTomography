@@ -4,6 +4,8 @@
 
 Unity AND/OR Python AND/OR Houdini
 
+<![](https://imgur.com/7Jj4Hhh)
+
 ## Workflow
 
 Use python script to generate PLY files from 3D tiff
@@ -11,6 +13,12 @@ Use python script to generate PLY files from 3D tiff
 PLY -> Houdini to make beautiful images/films or to export meshed OBJ for unity
 
 PLY or OBJ -> Unity to make standalone interactive environments on any platform
+
+
+
+## LINKS
+Generated OBJs and PLY files: https://drive.google.com/file/d/1BehnR9JcN9bw7jvJByK-5RS102-kjZT3/view?usp=sharing \
+Standalone exes for mac/PC: https://drive.google.com/file/d/10XFhkQadYILZ1YXInxGNa5xW4cqcHmXH/view?usp=sharing \
 
 ## Controls for the Unity experiment
 
@@ -28,9 +36,7 @@ h - hide/show cutting plane\
 
 all measurements saved to C:/unityOutputs
 
-## LINKS
-Generated OBJs and PLY files: https://drive.google.com/file/d/1BehnR9JcN9bw7jvJByK-5RS102-kjZT3/view?usp=sharing \
-Standalone exes for mac/PC: https://drive.google.com/file/d/10XFhkQadYILZ1YXInxGNa5xW4cqcHmXH/view?usp=sharing
+
 
 ## Authors
 
