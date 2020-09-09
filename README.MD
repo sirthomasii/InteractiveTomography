@@ -17,8 +17,8 @@ PLY or OBJ -> Unity to make standalone interactive environments on any platform
 
 
 ## LINKS
-Generated OBJs and PLY files: https://drive.google.com/file/d/1BehnR9JcN9bw7jvJByK-5RS102-kjZT3/view?usp=sharing \
-Standalone exes for mac/PC: https://drive.google.com/file/d/10XFhkQadYILZ1YXInxGNa5xW4cqcHmXH/view?usp=sharing \
+Example generated OBJs and PLY files: https://tinyurl.com/y68yw86j \
+Standalone exes for mac/PC: https://tinyurl.com/y26256qy \
 
 ## Controls for the Unity experiment
 
